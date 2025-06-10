@@ -16,7 +16,7 @@
 
 ## 🧠 ¿Qué es SmartQR?
 
-**SmartQR** es una plataforma digital multi-tenant diseñada para modernizar la atención en restaurantes mediante menús digitales interactivos. Los clientes pueden escanear un código QR desde su mesa para ver el menú, realizar pedidos, pagar con tarjeta y recibir notificaciones en tiempo real, sin necesidad de mozos.
+**SmartQR**  es una plataforma digital multi-tenant diseñada para modernizar la atención en restaurantes mediante menús digitales interactivos. Los clientes pueden escanear un código QR desde su mesa para ver el menú, realizar pedidos, pagar con tarjeta y recibir notificaciones en tiempo real, sin necesidad de mozos.
 
 Además, brinda a los dueños un completo panel de administración para gestionar su restaurante, menú, staff y estadísticas de ventas, todo desde una interfaz intuitiva y responsive.
 
