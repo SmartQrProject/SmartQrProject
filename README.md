@@ -22,7 +22,7 @@ Además, brinda a los dueños un completo panel de administración para gestiona
 
 ---
 
-## 🌟 Características principales
+## 🌟 Características principales.
 
 - 🧾 **Pedidos desde la mesa con QR**
 - 📋 **Gestión completa de menú y productos**
