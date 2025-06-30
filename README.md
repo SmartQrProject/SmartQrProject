@@ -16,7 +16,7 @@
 
 ## 🧠 ¿Qué es SmartQR?
 
-**SmartQR**  es una plataforma digital multi-tenant diseñada para modernizar la atención en restaurantes mediante menús digitales interactivos. Los clientes pueden escanear un código QR desde su mesa para ver el menú, realizar pedidos, pagar con tarjeta y recibir notificaciones en tiempo real, sin necesidad de mozos.
+**SmartQR** es una plataforma digital multi-tenant diseñada para modernizar la atención en restaurantes mediante menús digitales interactivos. Los clientes pueden escanear un código QR desde su mesa para ver el menú, realizar pedidos, pagar con tarjeta y recibir notificaciones en tiempo real, sin necesidad de mozos.
 
 Además, brinda a los dueños un completo panel de administración para gestionar su restaurante, menú, staff y estadísticas de ventas, todo desde una interfaz intuitiva y responsive.
 
@@ -39,13 +39,24 @@ Además, brinda a los dueños un completo panel de administración para gestiona
 
 ## 🛠️ Tecnologías utilizadas
 
-| Frontend | Backend | Otros |
-|----------|---------|-------|
-| Next.js 15 | NestJS | PostgreSQL |
-| React 19 | TypeORM | Stripe |
-| Tailwind CSS | JWT + Auth0 | Cloudinary |
-| Zod + RHF | Socket.io | MapBox |
-| Recharts | EventEmitter | Nodemailer |
+| Frontend     | Backend      | Otros      |
+| ------------ | ------------ | ---------- |
+| Next.js 15   | NestJS       | PostgreSQL |
+| React 19     | TypeORM      | Stripe     |
+| Tailwind CSS | JWT + Auth0  | Cloudinary |
+| Zod + RHF    | Socket.io    | MapBox     |
+| Recharts     | EventEmitter | Nodemailer |
+
+---
+
+## 📚 Documentación Técnica
+
+Este proyecto cuenta con documentación adicional que detalla:
+
+- 🏗️ Infraestructura, DevOps, pipeline, seguridad, etc. 👉 [Ver documentación técnica completa](./docs/README.md)
+<!-- - 📊 Documentación de reportes, analíticas y visualización 👉 [Ver documentación técnica completa](./docs/README_REPORTS.md)
+- 🔐 Documentación de autenticación y control de acceso 👉 [Ver documentación técnica completa](./docs/README_AUTH.md)
+- 💬 Documentación del chatbot y procesamiento de lenguaje 👉 [Ver documentación técnica completa](./docs/README_CHATBOT.md) -->
 
 ---
 
@@ -65,7 +76,7 @@ Este proyecto fue desarrollado como trabajo final del bootcamp **Soy Henry** por
 - [Francisco D'Alessandro](https://www.linkedin.com/in/francisco-dalessandro/)
 - [Gabriel Amigo](https://www.linkedin.com/in/amigogabrielernesto/)
 - [Federico Alvarez](https://www.linkedin.com/in/federico-alvarez97/)
-- [Matías Gallardo](https://www.linkedin.com/in/matias-gallardo-dev/)  
+- [Matías Gallardo](https://www.linkedin.com/in/matias-gallardo-dev/)
 - Mentoría de [Carolina Tobar Jaramillo](https://www.linkedin.com/in/carolina-tobar-jaramillo/)
 
 ---
