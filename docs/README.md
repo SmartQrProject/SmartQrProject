@@ -12,10 +12,10 @@ Este repositorio contiene toda la documentación técnica relacionada al backend
 
 ## 🗂️ Tabla de contenidos
 
-- ☁️ [Infraestructura y Despliegue en Oracle Cloud](./docs/DEPLOY_INFRASTRUCTURE.md)
-- 🔁 [CI/CD con GitHub Actions](./docs/CI_CD_PIPELINE.md)
-- 🛡️ [Headers de Seguridad y Evaluaciones](./docs/SECURITY_HEADERS.md)
-- 🚧 [Mejoras Futuras](./docs/FUTURE_IMPROVEMENTS.md)
+- ☁️ [Infraestructura y Despliegue en Oracle Cloud](./DEPLOY_INFRASTRUCTURE.md)
+- 🔁 [CI/CD con GitHub Actions](./CI_CD_PIPELINE.md)
+- 🛡️ [Headers de Seguridad y Evaluaciones](./SECURITY_HEADERS.md)
+- 🚧 [Mejoras Futuras](./FUTURE_IMPROVEMENTS.md)
 
 ---
 
